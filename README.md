@@ -1,5 +1,3 @@
-# big-data-dev
-
 # Gahana Swetha Sanagala
 
  ## Current
