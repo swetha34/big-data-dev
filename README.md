@@ -15,4 +15,5 @@
  (Gitgub Link)[https://github.com/swetha34]
  
  ## Photograph
- 
+ <img src="/images/image.jpeg" width="380" height="480">
+
